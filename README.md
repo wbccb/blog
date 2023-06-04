@@ -13,6 +13,7 @@
 - [Vue3源码-响应式系统-ref、shallow、readonly相关浅析](https://juejin.cn/post/7177178450287919162)
 - [Vue3源码-整体渲染流程浅析](https://juejin.cn/post/7179851550943084603)
 - [Vue3源码-diff算法-patchKeyChildren流程浅析](https://juejin.cn/post/7179469444945543229)
+- [Vue3源码-运行时编译模板&优化总结](https://segmentfault.com/a/1190000043750497)
 - [Vue3相关源码-Vuex源码解析](https://segmentfault.com/a/1190000043686292)
 - [Vue3相关源码-Vue Router源码解析(一)](https://juejin.cn/post/7215967109184503864)
 - [Vue3相关源码-Vue Router源码解析(二)](https://juejin.cn/post/7215967453931077692)
@@ -20,10 +21,20 @@
 ## 工程化
 ### webpack
 - [「Webpack5源码」热更新HRM流程浅析](https://juejin.cn/post/7182087193958023226)
+- [「Webpack5源码」make阶段（流程图）分析](https://segmentfault.com/a/1190000043759679)
+- [「Webpack5源码」enhanced-resolve路径解析库源码分析](https://segmentfault.com/a/1190000043759683)
+- [「Webpack5源码」seal阶段（流程图）分析(一)](https://segmentfault.com/a/1190000043813899)
+- [「Webpack5源码」seal阶段分析(二)-SplitChunksPlugin源码](https://segmentfault.com/a/1190000043845501)
+- [「Webpack5源码」seal阶段分析(三)-生成代码&runtime](https://segmentfault.com/a/1190000043857275)
 
 ### vite
 - [「vite4源码」dev模式整体流程浅析（一）](https://segmentfault.com/a/1190000043673403)
 - [「vite4源码」dev模式整体流程浅析（二）](https://segmentfault.com/a/1190000043674823)
+
+
+## 跨端开发框架
+- [【uni-app&微信小程序&React Native】跨端原理初探](https://segmentfault.com/a/1190000043700260)
+
 
 # 【知识总结】
 > 内容较为简单或者字数较少的文章集合
@@ -32,10 +43,8 @@
 - [【基础】rollup使用详解](https://github.com/wbccb/Frontend-Articles/issues/7)
 - [【基础】esbuild使用详解](https://github.com/wbccb/Frontend-Articles/issues/8)
 - [【基础】gulp使用详解](https://github.com/wbccb/Frontend-Articles/issues/9)
-- [【简单版】前端构建工具比较](https://github.com/wbccb/Frontend-Articles/issues/12)
 - [【基础】Node.js使用详解](https://github.com/wbccb/Frontend-Articles/issues/11)
 - [【基础】React18使用详解](https://github.com/wbccb/Frontend-Articles/issues/13)
-- [【简单版】flutter、rn、uni-app比较](https://github.com/wbccb/Frontend-Articles/issues/14)
 
 
 # 【代码项目】
